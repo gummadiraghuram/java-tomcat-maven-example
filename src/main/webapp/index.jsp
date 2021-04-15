@@ -45,7 +45,7 @@ button {
 </style>
 </head>
 <body>
-    <center> <h1> BACKOFFICE PORTAL LOGIN </h1> </center>
+    <center> <h1> Inventory PORTAL LOGIN </h1> </center>
     <form>
         <div class="container">
             <label>Username : </label>
